@@ -757,5 +757,3 @@ frida -U -f <package_name> -l <script.js> --no-pause
 #### 4.1. Document Your Findings Keep detailed notes on your methods, tools used, and any vulnerabilities discovered.
 
 #### 4.2. Report Responsibly Ensure your findings are reported back to the developers ethically and responsibly, as per the agreement.Following these steps will help you conduct a thorough and ethical penetration test on the DLS24 application.
-
-#### 4.2. Report Responsibly Ensure your findings are reported back to the developers ethically and responsibly, as per the agreement.Following these steps will help you conduct a thorough and ethical penetration test on the DLS24 application.
